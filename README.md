@@ -26,4 +26,18 @@
 ![image](https://github.com/suganyaanbalagan123/terraform-default/assets/133192593/2ac8e5d1-a1bb-4540-8372-161c0177411e)
 
 
+**created a template with the instance**
+
+![image](https://github.com/suganyaanbalagan123/terraform-default/assets/133192593/99fd6ad6-32aa-4774-8085-0a6ff971177f)
+
+
+**launched a instances with template**
+
+![image](https://github.com/suganyaanbalagan123/terraform-default/assets/133192593/fba7bf42-41ac-4ab4-a101-8c8b88ebf086)
+
+![image](https://github.com/suganyaanbalagan123/terraform-default/assets/133192593/946ffc75-2f53-4e4c-96c8-d94df25ecd34)
+
+
+
+
 
