@@ -2,12 +2,14 @@
 
 **created a main.tf file**
 
+**Terraform plan**
 ![image](https://github.com/suganyaanbalagan123/terraform-default/assets/133192593/39af4aa7-d1aa-4d4d-8761-39382f77909a)
 
 ![image](https://github.com/suganyaanbalagan123/terraform-default/assets/133192593/f43f8057-f569-41e9-a847-18a13a9b1e13)
 
 ![image](https://github.com/suganyaanbalagan123/terraform-default/assets/133192593/fc6064f9-5413-45ba-af63-bffbb9217cb0)
 
+**T**erraform apply**
 
 ![image](https://github.com/suganyaanbalagan123/terraform-default/assets/133192593/a3aee57d-6054-4cf7-af14-e4f90a221273)
 
